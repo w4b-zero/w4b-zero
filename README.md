@@ -51,7 +51,7 @@
 ## Stats
 <p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=w4b-zero&theme=transparent" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=w4b-zero&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://streak-stats.demolab.com?user=w4b-zero&theme=transparent&locale=de&date_format=j%20M%5B%20Y%5D&card_width=338&fire=EB5454&sideLabels=14FF00)](https://git.io/streak-stats" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=w4b-zero&theme=transparent" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w4b-zero&card_width=699&hide_border=true&theme=transparent" />
 </p>
