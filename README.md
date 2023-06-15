@@ -62,12 +62,8 @@
 <br><br>
 </p>
 
-
-<br>
-
 ![](https://hit.yhype.me/github/profile?user_id=98954036)
 
-<br>
 <!--
 
 - 🔭 I’m currently working on ...
@@ -79,4 +75,3 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
